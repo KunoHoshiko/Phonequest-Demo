@@ -1,7 +1,7 @@
 {
     "c2array": true,
     "size": [
-        120,
+        250,
         5,
         1
     ],
@@ -96,7 +96,7 @@
                 5
             ],
             [
-                "Great."
+                "Great. [tw=wait 0.5]Just great."
             ],
             [
                 ""
@@ -606,7 +606,7 @@
                 35
             ],
             [
-                "[color=#9198C9]I also remember when grandpa was babysitting me and I was playing toy soldiers. [tw=wait 0.5]He decided that it would be a good idea if I played with a real gun. [tw=wait 0.5]Obviously, it was not loaded [tw=wait 0.25], but dear god, [tw=wait 0.25]my parents were livid.[/color]"
+                "[color=#9198C9]I also remember when grandpa Helix was babysitting me and I was playing toy soldiers. [tw=wait 0.5]He decided that it would be a good idea if I played with a real gun. [tw=wait 0.5]Obviously, it was not loaded [tw=wait 0.25], but dear god, [tw=wait 0.25]my parents were livid.[/color]"
             ],
             [
                 "smirk"
@@ -1510,7 +1510,7 @@
                 "[color=#132E8B][b]imsam1p[/b][/color]: What about other documents?"
             ],
             [
-                2
+                3
             ],
             [
                 "self"
@@ -1728,7 +1728,7 @@
                 101
             ],
             [
-                "You know, she was not from a really rich family."
+                "You know, [tw=wait 0.25]she was not from a really rich family."
             ],
             [
                 ""
@@ -1745,7 +1745,7 @@
                 102
             ],
             [
-                "Her mother had troubles with sight. The only thing Haze dreamt about was enjoying a sunshine with her mother."
+                "Her mother had troubles with health."
             ],
             [
                 ""
@@ -1762,7 +1762,7 @@
                 103
             ],
             [
-                "The money from scholarship could help a lot."
+                "Money from scholarship could help a lot."
             ],
             [
                 ""
@@ -1779,7 +1779,7 @@
                 104
             ],
             [
-                "Hazel worked day and night. Beat herself over any failure."
+                "Hazel worked day and night to achieve it. [tw=wait 0.5]Beat herself up over any failure.[tw=wait 0.5]Over any mistake. [tw=wait 0.5]She wanted everything to be perfect. [tw=wait 0.5]Make it the best way possible so her goal could be achieved."
             ],
             [
                 ""
@@ -1796,7 +1796,7 @@
                 105
             ],
             [
-                "She wanted everything to be perfect. Make it the best way possible so her goal could be achieved."
+                "[tw=wait 0.5]She didn't sleep very often. [tw=wait 0.5]It was scary to look at her. [tw=wait 0.5]She was drained."
             ],
             [
                 ""
@@ -1813,7 +1813,7 @@
                 106
             ],
             [
-                "Until one day..."
+                "One day, [tw=wait 0.25]we decided to throw a party to cheer her up."
             ],
             [
                 ""
@@ -1830,7 +1830,7 @@
                 107
             ],
             [
-                "We decided to throw a party to cheer her up."
+                "Ordered pizza. [tw=wait 0.5]Bought some booze. [tw=wait 0.5]I brought her favourite horror movie."
             ],
             [
                 ""
@@ -1847,7 +1847,7 @@
                 108
             ],
             [
-                "Ordered pizza. Bought some booze. I brought her favourite"
+                "We waited and waited for her to show up at the party."
             ],
             [
                 ""
@@ -1864,7 +1864,7 @@
                 109
             ],
             [
-                "We waited and waited for her to show up."
+                "But she didn't come."
             ],
             [
                 ""
@@ -1881,7 +1881,7 @@
                 110
             ],
             [
-                "But she didn't come."
+                "Same thing happened the following day."
             ],
             [
                 ""
@@ -1898,7 +1898,7 @@
                 111
             ],
             [
-                "Same thing happened the other day."
+                "No one knew where she was. [tw=wait 0.5]Her mother was mortified."
             ],
             [
                 ""
@@ -1915,7 +1915,7 @@
                 112
             ],
             [
-                "It was too late when we understood that she was gone."
+                "It was already too late when we understood that she was gone."
             ],
             [
                 ""
@@ -1932,7 +1932,7 @@
                 113
             ],
             [
-                "I would like to believe that she was just burnout from all the stresses and fear of failure."
+                "I would like to believe that she was just burnout from all the stresses and fear of failing everyone."
             ],
             [
                 ""
@@ -1949,7 +1949,7 @@
                 114
             ],
             [
-                "Jumped on a train and went far away from all of that. Started her life from scratch."
+                "Left everything. [tw=wait 0.5]Caught a bus and ran far away from all of that. [tw=wait 0.5]Started her life from scratch."
             ],
             [
                 ""
@@ -1983,7 +1983,7 @@
                 116
             ],
             [
-                "If only I could call her the day she disapperead."
+                "If only I could call her the day she disappeared. [tw=wait 0.5]I would tell her the kindest words I know."
             ],
             [
                 ""
@@ -2017,6 +2017,1825 @@
                 118
             ],
             [
+                "Sorry for involving you in this."
+            ],
+            [
+                ""
+            ],
+            [
+                "narrator"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                119
+            ],
+            [
+                "It was so... [tw=wait 0.5]sudden. [tw=wait 0.5]She was just gone one day. [tw=wait 0.5]And no one truly knows what happened."
+            ],
+            [
+                ""
+            ],
+            [
+                "narrator"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                120
+            ],
+            [
+                "I thought I could find something to understand the reason behind it. [tw=wait 0.5]Her last message was the password I sent you."
+            ],
+            [
+                ""
+            ],
+            [
+                "narrator"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                121
+            ],
+            [
+                "But you didn't find anything important about her."
+            ],
+            [
+                ""
+            ],
+            [
+                "narrator"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                122
+            ],
+            [
+                "Thank you anyway."
+            ],
+            [
+                ""
+            ],
+            [
+                "narrator"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                123
+            ],
+            [
+                "Sorry."
+            ],
+            [
+                ""
+            ],
+            [
+                "narrator"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                124
+            ],
+            [
+                "I really needed someone to talk to."
+            ],
+            [
+                ""
+            ],
+            [
+                "narrator"
+            ],
+            [
+                "event_incomingcall"
+            ]
+        ],
+        [
+            [
+                125
+            ],
+            [
+                "[color=#9198C9]Hold on for a second!  [tw=wait 0.5]Someone's calling me. [tw=wait 0.5]Probably a customer.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                126
+            ],
+            [
+                "[color=#9198C9]I hope it isn't another prank call.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                127
+            ],
+            [
+                "[color=#9198C9]There's a dude who freaking loves to screw with me.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                128
+            ],
+            [
+                "[color=#9198C9]He calls very often. [tw=wait 0.5]And he's always using the same joke about aliens invading Earth.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                129
+            ],
+            [
+                "[color=#9198C9]It was hilarious for the first time. [tw=wait 0.5] Now it's just annoying.[/color] "
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                130
+            ],
+            [
+                "[color=#9198C9]I swear, [tw=wait 0.25]I'll beat him to death after I find out who he is. [tw=wait 0.5]Stupid little punk.[/color] "
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                131
+            ],
+            [
+                "[color=#9198C9]Hello! [tw=wait 0.5]It is BIOS Corporation support service. [tw=wait 0.5]Uh,[tw=wait 0.25] what's your problem?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                "event_phonepickup"
+            ]
+        ],
+        [
+            [
+                132
+            ],
+            [
+                "[color=#FF252C]HELLO, [tw=wait 0.25]HELLO. [tw=wait 0.5]stupid little PUNK. [tw=wait 0.25]i say HELLO to you, [tw=wait 0.25]do you [tw=wait 0.25]UNDERSTAND?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_musicstart"
+            ]
+        ],
+        [
+            [
+                133
+            ],
+            [
+                "[tw=wait 0.25][sfdx=offsety 1*cos(t * 800 + i * 150)][color=#9198C9]IT'S YOU AGAIN?[/color][/sdfx]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                "event_samshakehand"
+            ]
+        ],
+        [
+            [
+                134
+            ],
+            [
+                "[color=#FF252C]it's YOU again, [tw=wait 0.25]HUMAN![tw=wait 0.25]![tw=wait 0.25]![tw=wait 0.5]![/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                135
+            ],
+            [
+                "[tw=wait 0.25][sfdx=offsety 1*cos(t * 800 + i * 150)][color=#9198C9]WHAT DID I TELL YOU ABOUT CALLING THIS NUMBER???[/color][/sdfx]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                136
+            ],
+            [
+                "[color=#FF252C]I will BEAT YOU to DEATH [tw=wait 0.25]when I FIND you, [tw=wait 0.25]HUMAN.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                137
+            ],
+            [
+                "[color=#97CE37]Relax, Sam. [tw=wait 0.5]It's just a phone call. [tw=wait 0.5]Everything will be okay![/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                "event_samchill"
+            ]
+        ],
+        [
+            [
+                138
+            ],
+            [
+                "[color=#FF252C]HELLO?[tw=wait 0.25]?[tw=wait 0.25]?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                139
+            ],
+            [
+                "[color=#97CE37]Just hang up the phone, [tw=wait 0.25]Sam.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                140
+            ],
+            [
+                "[color=#FF252C]NO [tw=wait 0.25]![tw=wait 0.25]![tw=wait 0.25]![/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                141
+            ],
+            [
+                "[color=#97CE37]Shut up already![/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                142
+            ],
+            [
+                "[color=#FF252C]do not hang up the phone!!! [sfdx=offsety 1*cos(t * 800 + i * 150)][tw=wait 0.25]please, [tw=wait 0.25]please, [tw=wait 0.25]please![/sdfx][/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                143
+            ],
+            [
+                "[color=#97CE37]Well, why shouldn't we?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                144
+            ],
+            [
+                "[color=#FF252C]i know you breached bios corp servers. [tw=wait 0.5]does not sound very [tw=wait 0.25]LEGAL to me[tw=wait 0.25]?[tw=wait 0.25]?[tw=wait 0.25]?[/color] "
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                145
+            ],
+            [
+                "[tw=wait 0.25][sfdx=offsety 1*cos(t * 800 + i * 150)][color=#9198C9][color=#9198C9]OH SHIT[/color][/sdfx]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                "event_samshakehand"
+            ]
+        ],
+        [
+            [
+                146
+            ],
+            [
+                "[color=#97CE37]It's truly oh shit, Sam. [tw=wait 0.5]I didn't use VPN this time, [tw=wait 0.25]it was too slow.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                147
+            ],
+            [
+                "[color=#97CE37]What do you want?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                148
+            ],
+            [
+                "[color=#FF252C]I want YOU to listen to ME, [tw=wait 0.25]you stupid little PUNKS! [tw=wait 0.5]uhh, [tw=wait 0.25]by the way. [tw=wait 0.5]am i polite enough to fit human standards?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                149
+            ],
+            [
+                "[color=#97CE37]...[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                150
+            ],
+            [
+                "[color=#FF252C]okay, then i will bit you to DEATH, humans!!! [tw=wait 0.5]please?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                151
+            ],
+            [
+                "[color=#97CE37]Sure thing, friend.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                152
+            ],
+            [
+                "[color=#FF252C]FRIEND?[tw=wait 0.25]?[tw=wait 0.25]?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                153
+            ],
+            [
+                "[color=#FF252C]i will put you in jelly.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                154
+            ],
+            [
+                "[color=#97CE37]It's called jail, [tw=wait 0.25]not jelly.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                155
+            ],
+            [
+                "[sfdx=offsety 1*cos(t * 800 + i * 150)][color=#FF252C]I DO NOT CARE.[/color][/sdfx]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                156
+            ],
+            [
+                "[color=#97CE37]Well, [tw=wait 0.25]about the jail thing...[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                157
+            ],
+            [
+                "[color=#FF252C]i will put you in a [sfdx=offsety 1*cos(t * 800 + i * 150)]JAIL[/sdfx] thing.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                158
+            ],
+            [
+                "[color=#97CE37]Don't do it.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                159
+            ],
+            [
+                "[color=#FF252C]why?[tw=wait 0.25]?[tw=wait 0.25]?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                160
+            ],
+            [
+                "[color=#97CE37]Because if you do it I'll drop out of college. [tw=wait 0.5]I'll have to wander empty streets and die of starvation then.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                161
+            ],
+            [
+                "[color=#FF252C]oh.[tw=wait 0.25].[tw=wait 0.25].[tw=wait 0.25] i do not want anyone to die.\n[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                162
+            ],
+            [
+                "[color=#97CE37]Then forget that we hacked BIOS servers and no one will die.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                163
+            ],
+            [
+                "[color=#FF252C]i cannot![tw=wait 0.25]![tw=wait 0.25]![tw=wait 0.25] [sfdx=offsety 1*cos(t * 800 + i * 150)]everyone[/sdfx] will die if you do not listen to me.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                164
+            ],
+            [
+                "[color=#97CE37]Why?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                165
+            ],
+            [
+                "[tw=wait 0.25][color=#9198C9]Don't listen, [tw=wait 0.25]Mary. [tw=wait 0.5]He's just insane.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                "event_samchill"
+            ]
+        ],
+        [
+            [
+                166
+            ],
+            [
+                "[color=#97CE37][tw=wait 0.25]I don't think we have a choice, [tw=wait 0.25]Sam. [tw=wait 0.5]We will not get out of this if somebody finds out about us hacking BIOS servers. [tw=wait 0.5]BIOS corp is evil. [tw=wait 0.5]Their insane monopoly controls everything. [tw=wait 0.5]Going against them equals death. [tw=wait 0.5]And we fucked with their property, [tw=wait 0.25]that's what we did.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                167
+            ],
+            [
+                "[color=#FF252C]that's TRUE![tw=wait 0.25]![tw=wait 0.25]![tw=wait 0.25] you better listen to me![/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                168
+            ],
+            [
+                "[color=#9198C9]Go ahead, [tw=wait 0.25]moron.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                169
+            ],
+            [
+                "[color=#FF252C]it all started with your grandfather Helix, [tw=wait 0.25]sam. [/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                170
+            ],
+            [
+                "[sfdx=offsety 1*cos(t * 800 + i * 150)][color=#9198C9]What???[/color][/sdfx]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                "event_samshakehand"
+            ]
+        ],
+        [
+            [
+                171
+            ],
+            [
+                "[color=#FF252C]he and his friend. [tw=wait 0.5]they started it all.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_story2"
+            ]
+        ],
+        [
+            [
+                172
+            ],
+            [
+                "[color=#97CE37]Harry, [tw=wait 0.25]right?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                173
+            ],
+            [
+                "[color=#FF252C][sfdx=offsety 1*cos(t * 800 + i * 150)]Harry. [tw=wait 0.5]Harry Houdini[/sdfx].[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                174
+            ],
+            [
+                "[color=#FF252C]your grandfather was a genius[tw=wait 0.25], sam.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                175
+            ],
+            [
+                "[color=#FF252C]he managed to establish contact with [sfdx=offsety 1*cos(t * 800 + i * 150)]us[/sfdx].[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                176
+            ],
+            [
+                "[color=#97CE37][sfdx=offsety 1*cos(t * 800 + i * 150)]Us[/sfdx]?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                177
+            ],
+            [
+                "[color=#FF252C]Intergalactic Hooves Monarchy. [/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                178
+            ],
+            [
+                "[color=#9198C9]Intergalactic [sfdx=offsety 1*cos(t * 800 + i * 150)]what[/sdfx]?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                179
+            ],
+            [
+                "[color=#FF252C]we are cosmic space invaders, [tw=wait 0.25]sam.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                180
+            ],
+            [
+                "[color=#FF252C][color=#FF252C][sfdx=offsety 1*cos(t * 800 + i * 150)]harry houdini[/sdfx] wanted to exchange our technologies for access to your planet[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_houdini"
+            ]
+        ],
+        [
+            [
+                181
+            ],
+            [
+                "[color=#97CE37]I got it. [tw=wait 0.5]Harry wanted to build a mind-control device, right? [tw=wait 0.5]I read about it in documents.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                182
+            ],
+            [
+                "[color=#FF252C]yes, [tw=wait 0.25]yes, [tw=wait 0.25]absolutely right![/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                183
+            ],
+            [
+                "[color=#FF252C]you are correct, [tw=wait 0.25]girl. [tw=wait 0.5]very smart.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                184
+            ],
+            [
+                "[color=#FF252C]he wanted to use it for his [color=#FF252C][sfdx=offsety 1*cos(t * 800 + i * 150)]FINAL SEANCE[/sdfx].[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                185
+            ],
+            [
+                "[color=#FF252C]but grandfather Helix stopped him.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                186
+            ],
+            [
+                "[color=#FF252C]they both disappeared mysteriously after that...[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                187
+            ],
+            [
+                "[color=#9198C9][sfdx=offsety 1*cos(t * 800 + i * 150)]Are you making fun of me?[/sdfx][/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                188
+            ],
+            [
+                "[color=#9198C9][sfdx=offsety 1*cos(t * 800 + i * 150)]My grandpa died. [tw=wait 0.5]My best friend killed herself. [tw=wait 0.5]And you're laughing.[/sdfx][/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                189
+            ],
+            [
+                "[color=#9198C9]If you want to put me in jail just go for it.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                190
+            ],
+            [
+                "[color=#FF252C]your best friend? [tw=wait 0.5]you mean girl in huge glasses that loves purple color?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                191
+            ],
+            [
+                "[color=#FF252C]you are right about her not being alive. [tw=wait 0.5]but she is not dead either.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_shock"
+            ]
+        ],
+        [
+            [
+                192
+            ],
+            [
+                "[color=#FF252C]you don't actually know what happened to her?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                193
+            ],
+            [
+                "[color=#9198C9][sfdx=offsety 1*cos(t * 800 + i * 150)]Is she alive?[/sdfx][/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                194
+            ],
+            [
+                "[color=#FF252C]i wanted to tell you. [tw=wait 0.5]but you won't listen. [tw=wait 0.5]only keep insulting me.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                195
+            ],
+            [
+                "[color=#9198C9]I'll listen. [tw=wait 0.5]I promise.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                "event_story3"
+            ]
+        ],
+        [
+            [
+                196
+            ],
+            [
+                "[color=#FF252C]your friend conducted a very DANGEROUS experiment[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                197
+            ],
+            [
+                "[color=#FF252C]She worked for BIOS and paid with her life for that.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                198
+            ],
+            [
+                "[color=#FF252C]They continued research started by your grandpa.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                199
+            ],
+            [
+                "[color=#FF252C]They tried to restore contact with us.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                200
+            ],
+            [
+                "[color=#FF252C]And they succeded.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                201
+            ],
+            [
+                "[color=#FF252C]Many years from now on, we will invade your planet, humans.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_earth"
+            ]
+        ],
+        [
+            [
+                202
+            ],
+            [
+                "[color=#FF252C]In year TWENTY-TWENTY Earth will be INVADED. [tw=wait 0.5]Most of the humanity will be defeated without a fight, [tw=wait 0.25]by a mysterious molecule carried by our species. [tw=wait 0.5]Then we'll reign the Earth.[/color] "
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_invasion"
+            ]
+        ],
+        [
+            [
+                203
+            ],
+            [
+                "[color=#97CE37]Why are you telling us this?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                204
+            ],
+            [
+                "[color=#97CE37]It's in your interest to let this happen.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                205
+            ],
+            [
+                "[color=#FF252C]you're right. [tw=wait 0.5]But not very.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                206
+            ],
+            [
+                "[color=#FF252C]after we invaded your planet[tw=wait 0.25].[tw=wait 0.25].[tw=wait 0.25]. a more powerful entity appeared.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_finale"
+            ]
+        ],
+        [
+            [
+                207
+            ],
+            [
+                "[color=#FF252C]it destroyed our[tw=wait 0.5], i meant your, [tw=wait 0.25]planet.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                208
+            ],
+            [
+                "[color=#97CE37]But what do you think we can do?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                209
+            ],
+            [
+                "[color=#FF252C]literally nothing. [tw=wait 0.5]i just wanted you to live with the information about your world ending one day inevitably.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                210
+            ],
+            [
+                "[color=#97CE37]...[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                211
+            ],
+            [
+                "[color=#FF252C]just KIDDING. [tw=wait 0.5]it was a normal HUMAN joke, [tw=wait 0.25]that's what I did.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                212
+            ],
+            [
+                "[color=#FF252C]i've an amazingly detailed PLAN. [tw=wait 0.5]i've had my entire life to prepare me for this.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                213
+            ],
+            [
+                "[color=#FF252C]it's not safe to use phone for this. [tw=wait 0.5]add me in telecart. [tw=wait 0.5]my nickname is [/color][color=#FFFFFF]nagel6n[/color][color=#FF252C].[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                214
+            ],
+            [
+                "[color=#97CE37]So, [tw=wait 0.25]your name is Nagel, [tw=wait 0.25]huh?[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                215
+            ],
+            [
+                "[color=#97CE37]Nice to meet you, [tw=wait 0.25]Nagel![/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                216
+            ],
+            [
+                "[color=#FF252C]thank you unknown human girl.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                217
+            ],
+            [
+                "[color=#9198C9]That's really sweet and all. [tw=wait 0.5]But you have to promise something before we'll help you.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                218
+            ],
+            [
+                "[color=#97CE37]Sam. [tw=wait 0.5]We're not in a position to stipulate.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "mary"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                219
+            ],
+            [
+                "[color=#FF252C]i don't mind it.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                220
+            ],
+            [
+                "[color=#9198C9]Great. [tw=wait 0.5]Just great.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                221
+            ],
+            [
+                "[color=#9198C9]First, [tw=wait 0.25]you need to show your face.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                222
+            ],
+            [
+                "[color=#9198C9]Second, [tw=wait 0.25]promise that you'll tell everything you know about Hazel.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "sam"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                223
+            ],
+            [
+                "[color=#FF252C]fine.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                224
+            ],
+            [
+                "[color=#FF252C]i promise, [tw=wait 0.25]nasty human.[/color]"
+            ],
+            [
+                ""
+            ],
+            [
+                "nigel"
+            ],
+            [
+                "event_ending"
+            ]
+        ],
+        [
+            [
+                225
+            ],
+            [
                 ""
             ],
             [
@@ -2031,7 +3850,398 @@
         ],
         [
             [
-                119
+                226
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
             ],
             [
                 ""

@@ -3516,9 +3516,10 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.SetLayerScale,
 		C3.Plugins.Timeline.Cnds.OnTimelineFinishedByTags,
 		C3.Plugins.Spritefont2.Acts.SetVisible,
+		C3.Behaviors.Fade.Acts.StartFade,
+		C3.Behaviors.Fade.Acts.SetFadeOutTime,
 		C3.Plugins.TiledBg.Acts.Destroy,
 		C3.Behaviors.skymen_Skymen_SpritefontDX.Acts.PauseTw,
-		C3.Behaviors.Fade.Acts.StartFade,
 		C3.Behaviors.skymen_Skymen_SpritefontDX.Acts.ResumeTw,
 		C3.Plugins.System.Acts.SetLayoutAngle,
 		C3.Plugins.Mouse.Cnds.IsOverObject,
@@ -3537,6 +3538,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Exps.ImagePointX,
 		C3.Plugins.Sprite.Exps.ImagePointY,
 		C3.Plugins.System.Exps.random,
+		C3.Behaviors.Fade.Cnds.OnFadeOutEnd,
 		C3.Behaviors.Pin.Acts.PinByDistance,
 		C3.Plugins.System.Cnds.EveryTick,
 		C3.Plugins.Mouse.Exps.X,
@@ -3555,11 +3557,9 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Text.Exps.Text,
 		C3.Plugins.Text.Acts.AppendText,
 		C3.Plugins.Text.Acts.SetText,
-		C3.Behaviors.Fade.Acts.SetFadeOutTime,
 		C3.Plugins.Text.Acts.SetVisible,
 		C3.Plugins.Text.Acts.AddInstanceVar,
 		C3.Plugins.TiledBg.Acts.SetVisible,
-		C3.Plugins.Timeline.Cnds.IsAnyPlaying,
 		C3.Plugins.Audio.Cnds.IsTagPlaying,
 		C3.Plugins.Audio.Acts.SetSilent,
 		C3.Plugins.Text.Cnds.IsVisible,
@@ -3567,7 +3567,13 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.SetVar,
 		C3.Plugins.Text.Cnds.CompareOpacity,
 		C3.Plugins.Text.Acts.SetOpacity,
-		C3.Plugins.System.Exps.tokenat
+		C3.Plugins.System.Exps.tokenat,
+		C3.Plugins.Spritefont2.Acts.MoveToLayer,
+		C3.Plugins.Spritefont2.Acts.MoveToTop,
+		C3.Plugins.Sprite.Acts.SetScale,
+		C3.Behaviors.Tween.Cnds.OnAnyTweensFinished,
+		C3.Behaviors.Tween.Cnds.IsAnyPlaying,
+		C3.Behaviors.Sin.Cnds.IsEnabled
 	];
 };
 self.C3_JsPropNameTable = [
@@ -3698,9 +3704,24 @@ self.C3_JsPropNameTable = [
 	{sprite_photoviewr: 0},
 	{sprite_handf: 0},
 	{sprite_cemetery: 0},
+	{sprite_nigel: 0},
+	{sprite_nagelHorn1: 0},
+	{sprite_nagelHorn2: 0},
+	{sprite_nagelHorn3: 0},
+	{sprite_nagelHorn4: 0},
+	{sprite_handf2: 0},
+	{sprite_storyboard: 0},
+	{sprite_storyboard2: 0},
+	{sprite_textbackground: 0},
+	{animation_finished: 0},
+	{sprite_room: 0},
+	{sprite_tip: 0},
+	{sprite_bsod2: 0},
+	{sprite_tobc: 0},
 	{family_samExpressions: 0},
 	{Pin2: 0},
 	{family_maryExpressions: 0},
+	{family_nigelParts: 0},
 	{lineID: 0},
 	{layer_saturation: 0},
 	{messageID: 0}
@@ -3822,6 +3843,8 @@ self.C3_JsPropNameTable = [
 		() => "Voices",
 		() => 20,
 		() => "sound_sam",
+		() => "sound_nigel",
+		() => "sound_mary",
 		() => "Continous voices",
 		p => {
 			const n0 = p._GetNode(0);
@@ -3829,6 +3852,8 @@ self.C3_JsPropNameTable = [
 		},
 		() => 3,
 		() => "sam",
+		() => "nigel",
+		() => "mary",
 		() => "Classic voices",
 		() => 0.15,
 		() => "narrator",
@@ -4128,6 +4153,8 @@ self.C3_JsPropNameTable = [
 			const n0 = p._GetNode(0);
 			return () => n0.ExpBehavior("animation_charactersScale");
 		},
+		() => 101,
+		() => 102,
 		() => "Chat Typewriter",
 		() => "Chat Commands",
 		() => "story",
@@ -4135,7 +4162,9 @@ self.C3_JsPropNameTable = [
 		() => "animation_photoOpacity",
 		() => "animation_photo",
 		() => "animation_2",
-		() => 101,
+		() => "sound_rain",
+		() => -5,
+		() => "sound_talking",
 		() => "self",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -4302,6 +4331,67 @@ self.C3_JsPropNameTable = [
 		p => {
 			const n0 = p._GetNode(0);
 			return () => and("\n", n0.ExpObject(60, 1));
+		},
+		() => "Typewriter Events2",
+		() => "event_incomingcall",
+		() => "sound_phone",
+		() => "event_phonepickup",
+		() => "sound_phonepickup",
+		() => "animation_phoneFade",
+		() => "layer_phone",
+		() => "event_musicstart",
+		() => "music_phonecall",
+		() => "event_samshakehand",
+		() => "event_samchill",
+		() => "event_story2",
+		() => "animation_story2",
+		() => "layer_story2",
+		() => -30,
+		() => "music_plot",
+		() => "animation_storyboardOpacity",
+		() => "animation_storyboard",
+		() => "animation_storyboard2",
+		() => "event_houdini",
+		() => "harry",
+		() => 0.9,
+		() => "event_shock",
+		() => "event_earth",
+		() => "earth",
+		() => "sky",
+		() => "event_invasion",
+		() => "korabliki",
+		() => "event_finale",
+		() => "event_ending",
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpBehavior("animation_phoneFade");
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpBehavior("animation_story2");
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpBehavior("animation_storyboardOpacity");
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpBehavior("animation_storyboard");
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpBehavior("animation_storyboard2");
+		},
+		() => "Animation 2",
+		() => "layer_fade",
+		() => "layer_window",
+		() => 2.5,
+		() => "animation",
+		() => "animation2",
+		() => "nagel",
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpBehavior("animation");
 		}
 	];
 }
